@@ -92,12 +92,20 @@ const DEFAULT_PRICE_BY_CAT = {
   tracksuit: 35,
   running: 15,
   underwear: 15,
-  vapes: 55,
+  vapes: "whatsapp",
   electronics: 50,
   watch: 55,
-  perfum: 55,
-  cash: 55,
-  lego: 50
+  perfum: 15,
+  cap : 15,
+  money :  "whatsapp",
+  bag : 55,
+  dyson : 35,
+  goyard : 15,
+  lego : 45,
+  shirt : 15,
+  Gshock : 29.99,
+  rolex : 55
+
 };
 
 const DEFAULT_OLDPRICE_BY_CAT = {
@@ -320,7 +328,7 @@ function setBrand(brandOrNull){
 
   const label = brandOrNull ? brandOrNull : "All products";
   brandHeading.textContent = label;
-  brandSub.textContent = "Click a product to see details, choose size, then order via WhatsApp.";
+  // brandSub.textContent = "Click a product to see details, choose size, then order via WhatsApp.";
 
   renderCatFilter();
   renderGrid();

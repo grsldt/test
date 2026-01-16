@@ -58,7 +58,7 @@ window.CATALOG = {
         "Ami/pant/P10/f2d59aff.jpg"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "Ami/sweat/1/b05cabea-0576-4284-b0b1-39d14e4cb0fb.jpeg",
         "Ami/sweat/1/01497500-8c51-4ed3-9296-45fb505388aa.jpeg",
@@ -445,7 +445,7 @@ window.CATALOG = {
     ]
   },
   "Asics": {
-    "default": [
+    "shoes": [
       [
         "Asics/shoes/image_28.webp"],
         ["Asics/shoes/image_29.webp"],
@@ -467,7 +467,7 @@ window.CATALOG = {
     ]
   },
   "Balenciaga": {
-    "default": [
+    "shoes": [
       [
         "Balenciaga/shoes/Screenshot from 2026-01-11 19-48-01.png"],
         ["Balenciaga/shoes/Screenshot from 2026-01-11 19-48-17.png"],
@@ -581,7 +581,7 @@ window.CATALOG = {
     ]
   },
   "CP Company": {
-    "default": [
+    "cap": [
       [
         "CP Company/cap/cd0547e7.webp"
       ]
@@ -758,7 +758,7 @@ window.CATALOG = {
     ]
   },
   "LEGO": {
-    "default": [
+    "lego": [
       [
         "LEGO/F1noir/d07c5a20.png",
         "LEGO/F1noir/11e3de65.png",
@@ -902,7 +902,7 @@ window.CATALOG = {
     ]
   },
   "Perfum": {
-    "default": [
+    "perfum": [
       [
         "Perfum/chanel/Screenshot from 2026-01-14 22-33-09.png",],
         ["Perfum/chanel/Screenshot from 2026-01-14 22-33-33.png"
@@ -940,7 +940,7 @@ window.CATALOG = {
     ]
   },
   "RUNNING": {
-    "default": [
+    "tshirt": [
       [
         "RUNNING/H1/1a77b298.jpg",
         "RUNNING/H1/478dee7c.jpg",
@@ -950,13 +950,6 @@ window.CATALOG = {
         "RUNNING/H1/ffe5529a.png"
       ],
       [
-        "RUNNING/c1/Image_20260106124858_194_4.jpg",
-        "RUNNING/c1/Image_20260106124900_196_4.jpg",
-        "RUNNING/c1/Image_20260106124902_197_4.jpg",
-        "RUNNING/c1/Image_20260106124903_198_4.jpg",
-        "RUNNING/c1/Image_20260106124907_199_4.jpg"
-      ],
-      [
         "RUNNING/h2/8c4b3ed8.jpg",
         "RUNNING/h2/331ddbe1.jpg",
         "RUNNING/h2/8c4b3ed8.jpg",
@@ -964,6 +957,13 @@ window.CATALOG = {
         "RUNNING/h2/d125142f.jpg",
         "RUNNING/h2/ded3bfd2.jpg",
         "RUNNING/h2/f3cfee4d.jpg"
+      ],
+      [
+        "RUNNING/h3/44883dc9.jpg",
+        "RUNNING/h3/cd4cf882.png",
+        "RUNNING/h3/eb46cfb6.jpg",
+        "RUNNING/h3/ed13c83f.jpg",
+        "RUNNING/h3/f1450d87.jpg"
       ],
       [
         "RUNNING/h3/44883dc9.jpg",
@@ -989,6 +989,91 @@ window.CATALOG = {
         "RUNNING/p2/aad5132b.jpg",
         "RUNNING/p2/ae3316bc.jpg",
       ],
+
+    ],
+      "jacket" : [
+      [
+        "RUNNING/c1/Image_20260106124858_194_4.jpg",
+        "RUNNING/c1/Image_20260106124900_196_4.jpg",
+        "RUNNING/c1/Image_20260106124902_197_4.jpg",
+        "RUNNING/c1/Image_20260106124903_198_4.jpg",
+        "RUNNING/c1/Image_20260106124907_199_4.jpg"
+      ],
+      [
+        "RUNNING/z3/2876863a.jpg",
+        "RUNNING/z3/a389e06f.jpg",
+        "RUNNING/z3/e089af8e.jpg"
+      ],
+
+      [//22
+        "RUNNING/z1/de9246ac.jpg",
+        "RUNNING/z1/37b0f9da.jpg",
+        "RUNNING/z1/4a0bdf0b.jpg",
+        "RUNNING/z1/7f56461d.jpg",
+        "RUNNING/z1/ead70bbc.jpg",
+        "RUNNING/z1/f7bfe336.jpg"
+      ],
+    ],
+
+    "sweater" : [
+      [
+        "RUNNING/v1/1775c982.jpg",
+        "RUNNING/v1/2fd911f3.jpg",
+        "RUNNING/v1/02920349.jpg",
+        "RUNNING/v1/34005079.jpg",
+        "RUNNING/v1/7a38bdb7.jpg",
+        "RUNNING/v1/a21843ae.jpg",
+        "RUNNING/v1/b2fd7f2a.jpg",
+        "RUNNING/v1/c69ece52.jpg"
+      ],
+      [//22
+        "RUNNING/v2/5a559ab4.jpg",
+        "RUNNING/v2/02920349.jpg",
+        "RUNNING/v2/0f674d70.jpg",
+        "RUNNING/v2/3c282b00.jpg",
+        "RUNNING/v2/7fd746c7.jpg",
+        "RUNNING/v2/b9a2d103.jpg",
+        "RUNNING/v2/d251cb0d.jpg"
+      ],
+      [
+        "RUNNING/v3/f2b9b32f.jpg",
+        "RUNNING/v3/77b8ca19.jpg",
+        "RUNNING/v3/73c12c31.jpg",
+        "RUNNING/v3/a44400e4.png",
+        "RUNNING/v3/dd92f599.jpg",
+        "RUNNING/v3/f4356214.jpg",
+        "RUNNING/v3/ff639307.jpg"
+      ],
+
+      [
+        "RUNNING/z2/bd5f07a8.jpg",
+        "RUNNING/z2/012c59f3.jpg",
+        "RUNNING/z2/3bad6219.jpg",
+        "RUNNING/z2/66a991f9.jpg",
+        "RUNNING/z2/bd5f07a8.jpg",
+        "RUNNING/z2/e08e1253.jpg",
+        "RUNNING/z2/f6a5efa7.jpg"
+      ],
+
+
+      [
+        "RUNNING/z5/328b3764.jpg",
+        "RUNNING/z5/5d28b95e.jpg",
+        "RUNNING/z5/67a01dc7.jpg",
+        "RUNNING/z5/953ef21d.jpg",
+        "RUNNING/z5/b5b45355.jpg",
+        "RUNNING/z5/e84f8f13.jpg",
+        "RUNNING/z5/fff45288.jpg"
+      ],
+
+      [
+        "RUNNING/z4/744ce234.jpg",
+        "RUNNING/z4/1e15ea1f.jpg",
+        "RUNNING/z4/61b14ec4.jpg",
+        "RUNNING/z4/970c69d2.png"
+      ],
+
+
       [
         "RUNNING/p3/3ac398d3.jpg",
         "RUNNING/p3/360b8e3c.jpg",
@@ -1003,6 +1088,8 @@ window.CATALOG = {
         "RUNNING/p4/27b29e42.jpg",
         "RUNNING/p4/75bdc2e7.jpg"
       ],
+    ],
+    "pants" : [
       [
         "RUNNING/pp1/08e93900.jpg",
         "RUNNING/pp1/1ebf23ac.jpg",
@@ -1111,71 +1198,7 @@ window.CATALOG = {
         "RUNNING/pp9/37df8ea5.jpg",
         "RUNNING/pp9/6d24f2b4.jpg",
       ],
-      [
-        "RUNNING/v1/1775c982.jpg",
-        "RUNNING/v1/2fd911f3.jpg",
-        "RUNNING/v1/02920349.jpg",
-        "RUNNING/v1/34005079.jpg",
-        "RUNNING/v1/7a38bdb7.jpg",
-        "RUNNING/v1/a21843ae.jpg",
-        "RUNNING/v1/b2fd7f2a.jpg",
-        "RUNNING/v1/c69ece52.jpg"
-      ],
-      [//22
-        "RUNNING/v2/5a559ab4.jpg",
-        "RUNNING/v2/02920349.jpg",
-        "RUNNING/v2/0f674d70.jpg",
-        "RUNNING/v2/3c282b00.jpg",
-        "RUNNING/v2/7fd746c7.jpg",
-        "RUNNING/v2/b9a2d103.jpg",
-        "RUNNING/v2/d251cb0d.jpg"
-      ],
-      [
-        "RUNNING/v3/f2b9b32f.jpg",
-        "RUNNING/v3/77b8ca19.jpg",
-        "RUNNING/v3/73c12c31.jpg",
-        "RUNNING/v3/a44400e4.png",
-        "RUNNING/v3/dd92f599.jpg",
-        "RUNNING/v3/f4356214.jpg",
-        "RUNNING/v3/ff639307.jpg"
-      ],
-      [//22
-        "RUNNING/z1/de9246ac.jpg",
-        "RUNNING/z1/37b0f9da.jpg",
-        "RUNNING/z1/4a0bdf0b.jpg",
-        "RUNNING/z1/7f56461d.jpg",
-        "RUNNING/z1/ead70bbc.jpg",
-        "RUNNING/z1/f7bfe336.jpg"
-      ],
-      [
-        "RUNNING/z2/bd5f07a8.jpg",
-        "RUNNING/z2/012c59f3.jpg",
-        "RUNNING/z2/3bad6219.jpg",
-        "RUNNING/z2/66a991f9.jpg",
-        "RUNNING/z2/bd5f07a8.jpg",
-        "RUNNING/z2/e08e1253.jpg",
-        "RUNNING/z2/f6a5efa7.jpg"
-      ],
-      [
-        "RUNNING/z3/2876863a.jpg",
-        "RUNNING/z3/a389e06f.jpg",
-        "RUNNING/z3/e089af8e.jpg"
-      ],
-      [
-        "RUNNING/z4/744ce234.jpg",
-        "RUNNING/z4/1e15ea1f.jpg",
-        "RUNNING/z4/61b14ec4.jpg",
-        "RUNNING/z4/970c69d2.png"
-      ],
-      [
-        "RUNNING/z5/328b3764.jpg",
-        "RUNNING/z5/5d28b95e.jpg",
-        "RUNNING/z5/67a01dc7.jpg",
-        "RUNNING/z5/953ef21d.jpg",
-        "RUNNING/z5/b5b45355.jpg",
-        "RUNNING/z5/e84f8f13.jpg",
-        "RUNNING/z5/fff45288.jpg"
-      ]
+
     ]
   },
   "Ralph lauren": {
@@ -1187,7 +1210,7 @@ window.CATALOG = {
         "Ralph lauren/cap/2/555555.webp"
       ]
     ],
-    "chemise": [
+    "shirt": [
       [
         "Ralph lauren/chemise/1/Screenshot from 2026-01-15 01-31-44.png"
       ]
@@ -1270,7 +1293,7 @@ window.CATALOG = {
         "Ralph lauren/short/4/Screenshot from 2026-01-15 01-15-25.png"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "Ralph lauren/sweat/1/Screenshot from 2026-01-15 01-16-57.png",
         "Ralph lauren/sweat/1/Screenshot from 2026-01-15 01-17-13.png",
@@ -1334,7 +1357,7 @@ window.CATALOG = {
         "Ralph lauren/sweat/9/Screenshot from 2026-01-15 01-23-29.png"
       ]
     ],
-    "t shirt": [
+    "tshirt": [
       [
         "Ralph lauren/t shirt/1/Screenshot from 2026-01-15 01-27-18.png",
         "Ralph lauren/t shirt/1/Screenshot from 2026-01-15 01-27-38.png"
@@ -1480,7 +1503,7 @@ window.CATALOG = {
         "Stone island/short/2/Screenshot from 2026-01-15 01-44-46.png"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "Stone island/sweat/1/Screenshot from 2026-01-15 01-37-48.png",
         "Stone island/sweat/1/Screenshot from 2026-01-15 01-37-59.png",
@@ -1511,7 +1534,7 @@ window.CATALOG = {
         "Stone island/sweat/5/Screenshot from 2026-01-15 01-43-16.png"
       ]
     ],
-    "t shirt": [
+    "tshirt": [
       [
         "Stone island/t shirt/1/Screenshot from 2026-01-15 01-32-49.png",
         "Stone island/t shirt/1/Screenshot from 2026-01-15 01-33-04.png",
@@ -1597,7 +1620,7 @@ window.CATALOG = {
     ]
   },
   "WATCH": {
-    "G-shock": [
+    "Gshock": [
       [
         "WATCH/G-shock/1/Screenshot from 2026-01-14 22-57-52.png",
         "WATCH/G-shock/1/Screenshot from 2026-01-14 22-58-07.png",
@@ -1743,14 +1766,14 @@ window.CATALOG = {
     ]
   },
   "Yves st laurent": {
-    "baggg": [
+    "bag": [
       [
         "Yves st laurent/baggg/6/284fe28f.webp"
       ]
     ]
   },
   "burberry": {
-    "pant": [
+    "pants": [
       [
         "burberry/pant/p1 - Copie (7)/46ca832f.png",
         "burberry/pant/p1 - Copie (7)/1cbe0c57.jpg",
@@ -2060,7 +2083,7 @@ window.CATALOG = {
     ]
   },
   "cash": {
-    "default": [
+    "Money": [
       [
         "cash/1/hhh.png",
         "cash/1/image.png",
@@ -2083,7 +2106,7 @@ window.CATALOG = {
         "cdg/pant/p1 - Copie (8)/db39e20d.jpg"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "cdg/sweat/1/7db579ba-e25c-4fb4-af7a-90c5ee8cc2d2.jpeg",
         "cdg/sweat/1/04d7c5c5-2829-4e82-93e5-20132c48b65c.jpeg",
@@ -2183,14 +2206,14 @@ window.CATALOG = {
     ]
   },
   "dior": {
-    "bagg": [
+    "bag": [
       [
         "dior/bagg/5/9edef30e.webp"
       ]
     ]
   },
   "goyard": {
-    "default": [
+    "goyard": [
       [
         "goyard/coin_card/3473ce22.webp",
         "goyard/coin_card/4a17f9e2.webp"
@@ -2205,7 +2228,7 @@ window.CATALOG = {
     ]
   },
   "hermes": {
-    "default": [
+    "shoes": [
       [
         "hermes/shoes/image_5.webp"],
         ["hermes/shoes/Screenshot from 2026-01-11 19-26-45.png"],
@@ -2439,7 +2462,7 @@ window.CATALOG = {
         "lacoste/short/dossier4/fd0aabd0.jpg"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "lacoste/sweat/dossier1/01ddf9c8.jpg",
         "lacoste/sweat/dossier1/0175b752.jpg",
@@ -2801,7 +2824,7 @@ window.CATALOG = {
     ]
   },
   "margiela": {
-    "default": [
+    "shoes": [
       [
         "margiela/shoes/Screenshot from 2026-01-11 18-44-52.png"],
         ["margiela/shoes/Screenshot from 2026-01-11 18-45-02.png"],
@@ -3242,7 +3265,7 @@ window.CATALOG = {
         "nike/shoes/4/Screenshot from 2026-01-11 19-37-59.png"
       ]
     ],
-    "sport(tracksuit)": [
+    "tracksuit": [
       [
         "nike/sport(tracksuit)/1/8.png"
       ],
@@ -3286,7 +3309,7 @@ window.CATALOG = {
         "nike/sport(tracksuit)/9/Screenshot from 2026-01-15 00-21-08.png"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "nike/sweat/1/Screenshot from 2026-01-15 00-30-02.png",
         "nike/sweat/1/Screenshot from 2026-01-15 00-30-20.png",
@@ -3319,7 +3342,7 @@ window.CATALOG = {
     ]
   },
   "offwhite": {
-    "default": [
+    "shoes": [
       [
         "offwhite/shoes/Screenshot from 2026-01-11 19-42-46.png"],
         ["offwhite/shoes/Screenshot from 2026-01-11 19-43-43.png"],
@@ -3422,7 +3445,7 @@ window.CATALOG = {
         "pantagonia/jacket/1/fa29dd07-189a-4940-b89d-6b9743bee583 (Copy).jpeg"
       ]
     ],
-    "sweat": [
+    "sweater": [
       [
         "pantagonia/sweat/1/08affe68-700c-4033-b01e-269c8b61c6b7.jpeg",
         "pantagonia/sweat/1/074aeab4-4761-44df-ba0d-b04bbcc76b8f.jpeg",
@@ -3550,7 +3573,7 @@ window.CATALOG = {
     ]
   },
   "prada": {
-    "default": [
+    "shoes": [
       [
         "prada/shoes/Screenshot from 2026-01-11 18-35-58.png"],
         ["prada/shoes/Screenshot from 2026-01-11 18-36-10.png"],
@@ -3640,7 +3663,7 @@ window.CATALOG = {
     ]
   },
   "underwear": {
-    "default": [
+    "underwear": [
       [
         "underwear/1/5ff18ea0.png"
       ]
@@ -3696,7 +3719,7 @@ window.CATALOG = {
     ]
   },
   "vapes": {
-    "default": [
+    "vapes": [
       [
         "vapes/1/0cf02cf6.png"
       ],
